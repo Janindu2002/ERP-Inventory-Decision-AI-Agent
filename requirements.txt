@@ -1,0 +1,6 @@
+pandas
+reportlab
+langchain
+langchain-community
+openai
+python-dotenv

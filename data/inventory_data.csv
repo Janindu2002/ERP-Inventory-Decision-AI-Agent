@@ -1,0 +1,6 @@
+product,current_stock,reorder_level,daily_sales,supplier,cost,delivery_days
+Keyboard,10,25,5,ABC Electronics,20,3
+Mouse,15,30,6,ABC Electronics,10,3
+Monitor,50,20,2,XYZ Supplies,120,5
+USB Cable,100,40,10,TechSource,3,2
+Headphones,5,20,4,SoundHub,40,4
